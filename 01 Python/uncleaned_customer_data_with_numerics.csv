@@ -1,0 +1,311 @@
+CustomerID,Name,Email,Age,Country,SignupDate,LastLogin,TotalPurchase,Feedback,CartValue,ItemsBought,DiscountApplied,AvgPurchaseValue
+e3e70682-c209-4cac-a29f-6fbed82c07cd,Edwin Mack,timothy14@ward.com,unknown,,2023-10-18,2025-02-14 03:26:26,80.63,Excellent,196.06,,5.0,
+f728b4fa-4248-4e3a-8a5d-2f346baa9455,Kimberly Moore,brendagonzalez@atkins.org,75,USA,2025-02-28,2025-02-17 15:38:32,27.38,,136.79,,0.0,
+eb1167b3-67a9-4378-bc65-c1e582e2e662,Kaitlin Gregory,velazquezanita@yahoo.com,30,Germany,2023-09-10,2025-02-01 15:53:26,817.67,Bad,239.65,,20.0,
+f7c1bd87-4da5-4709-9471-3d60c8a70639,Crystal Gill,allentyler@hill-smith.com,,United States,N/A,2025-05-07 21:17:28,29.28,,291.47,,10.0,
+e443df78-9558-467f-9ba9-1faf7a024204,William Martinez,jonesashley@gmail.com,,United States,2024-09-12,2025-05-07 13:32:36,829.67,Average,,,15.0,
+23a7711a-8133-4876-b7eb-dcd9e87a1613,Amanda Scott,jvalencia@gmail.com,26,usa,2023-05-03,2025-01-22 01:08:41,196.14,Excellent,376.83,,20.0,
+1846d424-c17c-4279-a3c6-612f48268673,Lauren Foster,juliacastillo@yahoo.com,,ind,2024-11-04,2025-01-23 15:42:25,820.41,Average,398.81,,10.0,
+fcbd04c3-4021-4ef7-8ca5-a5a19e4d6e3c,David Campbell,xsalazar@gmail.com,77,IN,2023-08-31,2025-04-14 22:40:52,31.0,Bad,,,15.0,
+b4862b21-fb97-4435-8856-1712e8e5216a,Susan Larson,vincent73@hotmail.com,,usa,2022-06-04,,998.49,Good,392.52,4,5.0,249.6225
+259f4329-e6f4-490b-9a16-4106cf6a659e,,ryan56@hotmail.com,unknown,ind,2024-10-24,2025-04-28 12:41:10,384.15,Average,22.79,3,,128.04999999999998
+12e0c8b2-bad6-40fb-9948-8dec4f65d4d9,Ricky Torres,castillokelly@yahoo.com,35,India,2024-02-16,,,Good,137.32,,20.0,
+5487ce1e-af19-422a-99b8-a714e61a441c,Joseph Wright,sarah25@perez-becker.biz,unknown,USA,N/A,2025-01-29 05:41:01,186.13,Good,205.18,,,
+5a921187-19c7-4df4-8f4f-f31e78de5857,Carla Perry,kwhitney@hotmail.com,unknown,USA,2023-11-17,2025-02-27 11:14:25,327.15,,87.65,,5.0,
+a3f2c9bf-9c63-46b9-90f2-44556f25e2a2,Joseph Berry,fshaw@edwards.com,38,ind,N/A,,810.91,Average,200.45,,,
+8d723104-f773-43c1-b458-a748e9bb17bc,Kim Jenkins,ostewart@joyce-johnston.com,,United States,2022-09-04,2025-03-11 13:57:40,488.12,Good,458.58,8,20.0,61.015
+85776e9a-dd84-439e-b154-5a137a1d5006,Jennifer Osborne,bakerjessica@gmail.com,,,2023-10-09,2025-04-05 06:06:58,239.7,Bad,81.24,,0.0,
+eb2083e6-ce16-4dba-8ff1-8e0242af9fc3,Ebony Watson,lauradiaz@benton.biz,63,IN,2023-07-25,2025-04-10 04:19:41,100.91,Average,162.07,,,
+17e0aa3c-0398-4ca8-aa7e-9d498c778ea6,Brooke Terry,darrenjacobs@miller.com,unknown,IN,2023-11-05,,518.41,Excellent,,3,,172.8033333333333
+b5d32b16-6619-4cb1-9710-37d1b83e90ec,Kevin Taylor,ljones@perez.biz,52,India,2022-10-20,2025-02-17 19:24:38,875.93,,181.82,,0.0,
+a0116be5-ab0c-4681-88f8-e3d0d3290a4c,Heather Kennedy,grahampatrick@gmail.com,,ind,2023-08-26,2025-03-25 21:38:54,266.77,Excellent,66.62,,10.0,
+d3fbf47a-7e5b-4e7f-9ca5-499d004ae545,John Neal,aguilarjane@yahoo.com,,USA,2024-10-09,2025-01-29 22:49:08,422.08,Average,75.71,5,10.0,84.416
+baf3897a-3e70-416a-9548-5822de1b372a,Matthew Brown,caitlindavis@gmail.com,23,ind,2023-01-03,2025-04-27 03:43:21,919.61,Good,434.01,6,5.0,153.26833333333335
+101fbccc-ded7-43e8-b421-eaeb534097ca,Patrick Williams,andrew29@taylor.com,43,,2023-11-14,2025-04-27 06:47:21,875.91,Bad,429.83,,,
+38c1962e-9148-424f-aac1-c14f30e9c5cc,Allison Ruiz,hromero@garcia.info,unknown,United States,2022-07-15,,589.51,Good,319.05,6,15.0,98.25166666666667
+247a8333-f7b0-47d2-8da8-056c3d15eef7,Alexandra Rose,spencermorgan@yahoo.com,,India,2022-06-08,2025-02-06 07:02:00,570.03,,452.61,1,20.0,570.03
+1759edc3-72ae-4244-8b01-63c1cd9d2b7d,Sean Parks,gmiller@yahoo.com,unknown,IN,2025-02-07,2025-03-08 08:14:18,5.09,Average,265.64,,0.0,
+e005b860-51ef-4922-be43-c49e149818d1,Maureen Smith,ewright@johnson-cummings.com,unknown,Germany,2024-11-29,2025-02-05 05:18:14,421.76,Good,408.44,,0.0,
+7d41e602-eece-428b-bf7b-118e820865d6,Marc Key,pwalker@yahoo.com,,IN,N/A,2025-05-08 19:56:23,132.74,Good,468.11,,0.0,
+4a84eb03-8d1f-49b7-8d2b-9deb1beb3711,Melissa Acosta,cthomas@yahoo.com,,India,2024-01-29,2025-01-05 05:25:37,920.84,Excellent,339.71,,5.0,
+552f233a-8c25-466a-9ff3-9849b4e1357d,Paul Roberts,jgreene@hotmail.com,unknown,United States,2022-05-30,2025-03-07 00:01:53,900.09,Bad,308.04,,,
+3405095c-8a50-46c1-ac18-8efbd080e66e,Joel Rivera,kevinholmes@martinez.com,,,2024-03-18,2025-01-30 02:12:33,279.36,Average,295.56,,5.0,
+8c1745a7-9a6a-4f92-8ca7-4147f6be1f72,Javier Prince,mmyers@crawford-jackson.com,39,ind,N/A,,357.63,Average,154.58,,10.0,
+1775336d-71ea-4d05-89a3-e80e966e1277,Jermaine Fletcher,jenniferwhite@hotmail.com,,United States,2023-05-14,,855.99,,382.69,9,5.0,95.11
+5129fb7c-6288-41a5-8c45-782198a6416d,Beverly Lozano,cynthiawilliamson@hotmail.com,,Germany,N/A,2025-01-20 23:20:12,,,206.63,,0.0,
+,Richard Price,fjohnson@bridges.com,55,usa,2024-03-15,,744.08,Excellent,142.03,6,5.0,124.01333333333334
+2f120554-4a53-48cc-bdfa-bc08935ddd72,Jean Robinson,johnsawyer@walker.net,unknown,India,2024-10-18,2025-04-10 16:31:18,176.24,,27.88,,,
+0870e15c-2fcd-41b5-924b-ace4307bf326,Todd Willis,nicole57@hotmail.com,,,2024-05-08,2025-03-03 01:41:42,415.49,Bad,133.46,,0.0,
+42930b33-a81a-4477-bb36-75b89cdeb3e6,James Young,nathanbridges@kim.info,,Germany,2023-08-16,2025-04-28 18:07:34,969.88,,336.08,6,15.0,161.64666666666668
+adc0da7a-16fe-4aa0-91af-923d79fdef7c,Cody Brown,jeffreywilson@finley.info,unknown,IN,2022-05-23,,859.82,Excellent,126.61,2,10.0,429.91
+2648ee38-e074-45eb-a156-63abc1f254b8,Carrie Bishop,janet06@miller.org,,USA,2023-02-13,,477.38,Good,254.75,,15.0,
+148b2758-d7ab-4928-89e4-69e6ec62b2c8,Michele Hunt,cynthiayu@hotmail.com,,IN,2025-04-22,2025-02-18 03:11:27,557.5,Excellent,345.55,,,
+d450fe4a-ec4f-417b-b306-d1a8e5eeac76,Shawn Gomez,iparker@jones.com,unknown,Germany,2024-10-22,2025-01-20 20:14:41,291.88,,497.93,,5.0,
+d67e55fd-642b-4a42-aef9-c00b8a64c1b9,Mark Black,xjensen@miller-johnson.com,,United States,N/A,2025-04-20 02:44:21,319.41,,258.1,10,20.0,31.941000000000003
+85940927-468f-453d-864a-7a50b48d73f1,,eric41@west.biz,,India,2024-04-21,2025-01-21 04:20:02,936.6,Good,332.42,,10.0,
+37176e84-d977-4993-bc49-d76fcfc6e625,Tina Spears,jeremy94@gmail.com,73,ind,2024-08-29,2025-05-13 16:35:23,72.64,Good,320.05,,20.0,
+d3447490-96fd-45d0-adf2-0806e5214606,Lauren Henry,lesliesilva@brown-kaiser.info,unknown,IN,2022-08-29,2025-04-03 17:23:37,826.34,,461.3,,15.0,
+46743741-9466-4472-ab5f-5241f323ca74,Cindy Adams,paul01@yahoo.com,21,usa,2025-02-16,2025-04-12 13:18:40,197.85,Average,75.19,,0.0,
+a425799a-a905-4750-be1e-a9c573581a81,Christopher Smith,nicolewilson@wright-soto.com,unknown,Germany,2022-06-07,2025-04-30 11:09:08,196.42,,451.52,,0.0,
+fb82860d-eabc-48d0-b341-facdff0ac0f1,Brenda Buchanan,coopernathaniel@hotmail.com,39,usa,2025-03-21,2025-05-16 13:17:13,987.35,,47.71,,0.0,
+5306f3f5-1516-4570-9b7c-709acb175a5a,Tracy Sanders,morganandrea@odonnell.com,28,USA,2022-07-23,2025-04-06 19:47:57,993.55,Bad,366.41,,20.0,
+964a870c-7c87-4b74-9d87-8f9f9cdf5a86,Jody Morgan,mauricecarney@hotmail.com,,IN,2022-10-05,2025-02-25 14:59:49,127.22,,368.58,,0.0,
+30bcab0e-d857-4102-95d4-4936a1515607,,kingdalton@gmail.com,unknown,United States,2022-11-30,2025-03-07 01:53:15,558.48,,163.13,,0.0,
+4562be7f-bb42-40b2-8426-465e3e37952d,Stephen Norton,yjohnson@reed.com,unknown,USA,2024-01-18,2025-04-30 15:55:03,516.32,Bad,110.98,,5.0,
+5f3f5638-3870-4a14-b490-b6081dfc8352,Jesus Nguyen,raymondlynch@gonzales.com,,usa,2024-01-03,2025-01-18 14:16:21,238.11,,82.11,,0.0,
+6d16ee18-5521-46dd-aba4-b180cb69ca38,Andrew Wood,stevenedwards@hill.com,78,IN,2024-11-30,2025-02-10 12:57:41,946.44,Good,27.19,,10.0,
+c87a7463-19c1-4a0d-8feb-d845d0dfae43,Joseph Lopez,kyle50@carr.com,unknown,Germany,2023-02-13,,705.33,,464.36,2,10.0,352.665
+38018b47-b29a-4b06-9af6-6c5f2577bffa,Michael Fitzgerald,tiffany88@grimes-davis.net,unknown,usa,2023-04-23,2025-01-09 00:36:25,,,39.22,1,20.0,
+a25b59fd-92e8-4269-912e-cbc40b9475b1,Scott Scott,millertiffany@yahoo.com,unknown,Germany,2025-02-21,2025-05-04 02:08:56,115.77,,376.9,,15.0,
+9a27d858-88c1-42ad-afbf-c19ee8f6cf32,Micheal Williams,john64@johnson.com,,USA,2024-09-14,2025-03-20 10:42:28,418.8,,266.71,,5.0,
+1fdb8b32-06d5-49e8-92f1-75ffae3b16ec,Andrea Murray,logan84@logan.net,57,,2022-10-31,2025-02-20 06:41:53,89.97,Good,416.63,7,15.0,12.852857142857143
+d480865f-9b38-4e80-b042-e325a28f5ab0,Amber Lamb,carla66@aguilar-king.com,unknown,,2022-07-02,2025-04-10 11:04:36,299.2,Average,402.34,10,0.0,29.919999999999998
+176ea1b1-6426-4cd5-9ea4-5cd69371a71f,Julia Wilson,berickson@yahoo.com,,USA,2022-07-19,2025-03-08 00:47:59,983.36,,,,15.0,
+1db53334-fb03-43a1-9576-d4155ec17dbe,Brett Cannon,halllindsey@johnson-miller.com,72,USA,2024-01-19,2025-02-12 16:10:52,,Good,144.19,,15.0,
+31d0b664-0589-4877-9b02-52440950fd13,Thomas Alexander,susansmith@fox-martinez.com,unknown,Germany,2024-02-05,2025-04-25 05:37:41,593.76,Excellent,430.95,,20.0,
+b7d6467b-2f5a-422a-b87f-43fdf6062541,Jeffery Fischer,joseph67@hotmail.com,,,2023-07-30,2025-03-08 01:50:40,546.07,Bad,489.73,1,20.0,546.07
+ba26d851-35e8-479a-baaf-0e891fb797fa,Amanda White,jennadickerson@harris-hernandez.com,unknown,Germany,2023-02-06,2025-02-20 13:20:25,16.07,,486.22,8,,2.00875
+ade9b2b4-efdd-45f8-8fa3-4266ccfdba9b,Carl Pitts DVM,andreawright@white.biz,,usa,2023-12-28,2025-05-17 02:20:13,,Excellent,469.22,5,0.0,
+9edfa3da-6cf5-4b15-8b53-031d05d51433,Jeffrey Hawkins,katherineanderson@maldonado.com,,,2022-06-26,2025-01-13 21:25:33,246.31,Good,427.65,,,
+11ebcd49-428a-4c22-95fd-b76a19fbeb1d,Joshua Harris,mtyler@jenkins.net,unknown,India,N/A,2025-03-29 09:53:57,693.56,,434.08,,,
+4d125e7f-a59c-4c98-926c-bc8f38884479,Jeremy Jacobs,paulfox@gmail.com,,,2025-03-23,2025-01-25 17:19:20,554.14,Average,339.14,,5.0,
+0fa07a3f-2e29-4065-afa2-31e959acdd98,Debbie Hall,patelrachel@smith.com,unknown,USA,2023-09-24,2025-01-08 10:13:43,746.59,,142.55,,15.0,
+98b33c6e-0a14-490a-b795-e98680ee526e,Richard Garcia,acraig@yahoo.com,,Germany,2025-01-19,,295.69,Bad,107.38,,20.0,
+642aad48-fcfc-4a81-b306-d70019d5f970,Danielle Mitchell,jessica29@gmail.com,73,usa,2024-02-28,2025-05-11 08:54:34,512.1,Excellent,88.74,,15.0,
+e786ab37-5bca-47be-8298-17c53308fb2e,Mary Harmon,gillbrian@steele.info,62,United States,2024-07-30,2025-01-19 19:21:50,814.79,Good,480.84,,15.0,
+e6fd68e8-d69c-41c2-b860-1602bb4a06cb,Shannon Martinez,alexander25@howard.com,22,United States,2023-03-25,2025-03-27 07:03:06,,,415.26,5,,
+b29c467d-2b5f-4932-91dc-59efeb21a3f6,Bailey Mclaughlin,mendozajessica@franklin.info,68,India,2024-07-23,2025-02-24 13:36:16,,Excellent,408.83,,20.0,
+c470f0e7-f76f-4fb8-b412-fc12ac322c12,Michael Warner,staylor@hotmail.com,42,India,2023-11-21,2025-03-07 00:09:21,915.93,Average,,,20.0,
+28805c5d-ad1b-4f60-89e4-dab20edc6d2b,Connie Decker,melissa96@yahoo.com,unknown,India,2024-11-27,2025-02-19 08:46:50,858.95,,390.23,,0.0,
+878b9f6b-57a1-4b71-a975-d279d86dbf11,Joseph Leonard,emily93@gmail.com,,ind,2023-06-03,2025-03-28 03:40:25,64.95,,44.07,1,,64.95
+ebe21368-98c7-4205-9e01-a934402d0baf,Mark Mitchell,josephjackson@gmail.com,35,India,2025-04-03,2025-01-04 11:21:20,310.77,,311.65,5,,62.153999999999996
+0361524c-2cc0-4859-aa65-24ab713b7e05,Robert Tran,jonathon47@hotmail.com,unknown,USA,2022-07-06,2025-03-08 15:44:33,136.11,,143.67,,10.0,
+e66cd36e-68ef-4f5f-ae68-690a78bc7175,Kevin Johnson,tammyellis@smith.com,36,USA,2024-02-20,2025-03-04 09:19:58,66.11,Bad,290.63,,5.0,
+eae2025e-8233-4e23-9ff3-334b91b15f5d,James Daugherty,,,United States,2024-06-19,,889.45,Bad,145.86,,20.0,
+637e0edc-5b6e-4ae7-a620-81434fbaecc0,Angela Hubbard,petersenjay@gmail.com,43,usa,2024-07-21,,479.36,,,5,,95.872
+27460f22-403d-4f83-a859-890cd670f668,Patricia Hudson,chelsea40@ewing.com,72,usa,2025-01-20,2025-05-04 21:53:26,686.46,Bad,448.42,,15.0,
+753c7c99-032f-46ca-b0d9-c2aa8f837ef7,Cindy Oconnor,phillipporter@yahoo.com,,IN,2022-07-30,2025-02-17 02:08:30,479.93,Bad,222.47,,10.0,
+bd30291a-55fe-408e-943e-2e04bdd7d19b,Olivia Gomez,perkinskimberly@hotmail.com,,ind,2023-03-23,,919.66,,65.83,8,0.0,114.9575
+2284b7a4-47e7-4593-8b58-85ca0bb2c3f0,Lori Lester,alexisschmidt@rodgers-harrell.biz,unknown,Germany,2023-10-24,2025-03-10 12:28:48,,Average,448.66,,15.0,
+7b59051b-f400-48d7-831d-5a973d792fa1,Roy Fox,jack27@hernandez.com,47,IN,2024-04-27,,943.6,Average,95.58,,10.0,
+ac642b4c-49b2-4ded-9c31-d9b25a2b745b,Jesus Smith,grahamcassandra@holland.biz,,United States,2023-02-26,2025-03-12 07:11:14,637.56,Good,100.4,5,10.0,127.51199999999999
+e456697c-f268-4baa-971c-702d5bf49c04,Matthew Guerrero,cynthia93@hotmail.com,,United States,N/A,2025-03-11 14:23:03,927.93,Excellent,221.46,6,5.0,154.655
+21e15094-9efe-4464-9a90-f534a23d4c9d,Troy Castillo MD,,unknown,India,2024-10-15,2025-03-14 20:32:42,855.32,Average,89.03,,10.0,
+bf9cc545-6355-48f7-8f6f-a985b732d46f,Deanna Munoz,teresa54@rowland-lynch.com,unknown,Germany,2023-03-19,2025-02-09 02:19:47,305.51,Bad,89.13,,0.0,
+14aa451c-a69c-4b85-9432-f8db6a174c1c,Samantha Floyd,elliskaren@gmail.com,70,IN,2023-04-11,2025-01-04 09:10:45,973.32,Average,323.79,9,,108.14666666666668
+b2d650af-313b-42b7-9836-31890063e42f,,afranklin@hotmail.com,,,2022-07-11,,,Good,291.02,4,5.0,
+391cf046-3d4a-4d51-a8fa-fd04559b5975,Anthony Johnson,rmiranda@hess.com,,IN,N/A,2025-03-18 11:15:55,897.97,Good,177.21,,0.0,
+b5d97ef7-60ef-4471-b2b8-ff39a32c9b6f,Tonya Cooper,uphillips@cohen.com,,,2023-03-23,2025-05-03 00:53:33,116.72,,241.78,,5.0,
+dfe1b307-9172-4f0a-ac7c-8803e01bbf50,Nicholas Barrett,,56,,2022-11-18,2025-04-23 19:47:26,407.65,Average,267.25,,,
+df26f517-66fa-4989-8813-5d586a1689ad,,reidwilliam@hotmail.com,,ind,2023-08-16,2025-04-15 13:20:10,234.37,,,7,0.0,33.48142857142857
+,Michael Torres,williamsalexis@beasley.biz,,United States,2023-10-01,,760.62,Excellent,460.65,,5.0,
+c5adf681-6b10-453a-9145-de05b3ab1b2c,Joshua Oconnor,edwardslori@gmail.com,,usa,2023-10-11,2025-03-01 20:19:15,390.8,Average,359.52,1,15.0,390.8
+2a69acc7-0bf9-40ef-b581-6b74a985ab61,Alex Burton,brandongutierrez@gmail.com,,,N/A,2025-03-19 18:27:43,562.88,Bad,103.25,,,
+b3969057-425c-4200-905a-da6b720299e3,Andrew Perez,uanderson@phillips.net,,IN,2023-09-02,2025-04-28 01:27:47,818.22,Excellent,401.63,,20.0,
+e28bc9ff-870f-484c-b244-f536285e25b4,Andrea Brown,jjohns@pugh.com,unknown,ind,2022-12-26,2025-01-05 06:34:27,232.4,Excellent,70.76,2,0.0,116.2
+9a9e4310-8fb8-4bab-a875-4cd37cbd7025,Jenny Stafford,qroberts@powell.com,,,N/A,2025-04-16 20:19:15,732.26,Good,78.07,9,0.0,81.36222222222221
+09f6048f-e245-4460-8004-884cc167733f,Jeffrey Howard,fowlereric@wall.com,,,2023-02-21,2025-01-24 01:43:53,700.46,Good,308.19,,20.0,
+d675ebf7-4fe3-4c9a-9371-0f577e9cf84f,Gary Hatfield,adam52@lane-brown.com,27,USA,2024-10-28,2025-03-03 00:32:03,865.25,Good,476.16,,0.0,
+d29dc5df-cf1d-4110-8cc3-6d8c77863fe5,Janet Ortiz,shannon77@fox.biz,,USA,N/A,,997.87,Excellent,244.63,9,20.0,110.87444444444445
+6a46721a-cffa-4cdd-b963-a7efe00111e5,Joseph Fitzgerald,ostone@gmail.com,,Germany,2024-02-20,2025-01-05 16:46:17,907.0,Excellent,371.38,6,20.0,151.16666666666666
+f689a4a5-ffda-4336-8c6e-90373020da5c,,eddie12@gmail.com,19,United States,2023-07-19,2025-03-26 06:55:54,545.5,,202.31,,15.0,
+d663049d-155e-48b1-ba83-ada4a2121ac5,,hnewman@jones.info,37,India,2022-08-10,2025-01-28 20:10:41,488.01,,,4,5.0,122.0025
+03c54c71-fca0-4536-a169-df82b9bdee2d,Julie Williams,julie97@hotmail.com,,ind,2024-01-01,,977.87,,142.74,10,0.0,97.787
+6ae04d52-adb3-48cb-b315-8c0c66dd7794,Jennifer Myers,kimberlyjohnson@yahoo.com,,United States,2022-11-04,2025-01-19 00:07:47,922.54,,383.5,,20.0,
+03a89879-36a9-4d74-80de-59f550f0fc2b,Charles Melton,laura03@hotmail.com,unknown,IN,2024-10-16,2025-01-25 06:42:39,143.29,,485.38,,15.0,
+faf1501b-009a-415b-8137-8be5b7a28e0a,Morgan Hernandez,brodriguez@sanchez.com,unknown,India,N/A,2025-01-10 20:25:34,47.98,Bad,471.86,8,0.0,5.9975
+9cb017c1-8741-4e91-acfe-bb4bd29e8693,Ryan Hoover,dunlaphector@yahoo.com,,India,2024-06-28,2025-05-08 11:06:26,652.83,Excellent,333.25,7,20.0,93.26142857142858
+9bbd750d-1e70-4c52-b0c1-fb6a19086515,Alex Drake,aavila@gmail.com,unknown,,2023-01-24,2025-04-19 00:40:33,538.97,Bad,382.38,3,5.0,179.65666666666667
+4d6b234f-dfa7-46ed-b2d1-f81ba636425c,,wnewton@lang.com,unknown,usa,2023-12-28,2025-02-26 16:00:07,,Good,475.76,,15.0,
+2ea60b99-fa7f-48bf-b044-284a47acf2f6,Richard Sutton,marissadominguez@hotmail.com,,USA,2023-04-26,2025-02-08 06:03:05,731.11,Good,101.57,5,15.0,146.222
+ec3aa314-da9b-4017-b9c1-47c719a5711b,Blake Pennington,robinmann@hotmail.com,,Germany,2024-02-12,2025-05-08 04:42:17,539.86,,236.22,,15.0,
+0597aab6-14d3-4dbc-a0ac-f4c9658de17e,Lisa Ellis,ustewart@bradley-grimes.com,,ind,2024-01-08,2025-03-12 04:32:03,483.48,Good,,,15.0,
+ccc14d51-73f6-40d8-a9f4-1cc04653a560,Lance King,yyoung@yahoo.com,unknown,IN,2022-12-02,,439.73,Average,377.7,6,10.0,73.28833333333334
+41a93f90-dc82-4527-9da3-b7e2cad6e514,Morgan Johnson,,50,usa,2024-10-03,,660.32,Bad,53.92,,15.0,
+d138d150-8557-416a-a750-2a812227d96d,Amanda Davis,jonathanallen@glenn.com,,Germany,2025-01-22,2025-02-17 01:46:28,905.16,Average,,,,
+1d77ce40-58d8-4776-a51a-d4f3a699bae0,Chris Young,marcthomas@yahoo.com,46,IN,2024-04-03,2025-04-20 18:11:37,279.35,Average,198.27,,0.0,
+d9ead926-4745-4d9e-a789-6389df3277fd,Nicolas Sullivan,englishsean@holt.com,,United States,2025-01-08,2025-01-17 02:08:44,539.88,,47.08,,0.0,
+,Johnathan Long,fernandezrebecca@price-hunt.com,70,usa,2025-04-20,2025-02-13 07:18:50,546.77,Bad,,,10.0,
+34ab18fd-0a68-488e-8ad4-041504c14982,Steven Pierce,jessica03@gmail.com,77,ind,2023-12-01,,699.01,Bad,81.3,1,0.0,699.01
+50910bdc-8ef0-46d4-8279-b14dae55cdff,Patricia Duncan,gmiller@barker-barnes.com,,India,2022-07-27,,25.65,Average,244.9,1,20.0,25.65
+914591ae-f03d-466a-9dec-c06af24dfdd8,Michael Bryant,boyerdarin@gmail.com,,IN,2025-02-09,2025-05-10 15:38:51,87.13,Average,479.7,2,,43.565
+d8ab0b30-0ac0-4f0d-9974-c146e8ec01b3,Jennifer Crawford,kathryngilbert@hotmail.com,,ind,2024-12-30,2025-03-26 01:37:42,488.22,Bad,,,5.0,
+9b8b71a1-b38a-45fb-b611-64cebfc74ca9,Patrick Johnson,amy67@yahoo.com,unknown,usa,N/A,2025-03-03 15:06:49,32.38,Excellent,154.66,10,,3.2380000000000004
+a4e695c9-b65d-4226-be96-9cf3a7c5cb87,Lauren Parsons,barberwendy@davis.org,,IN,2024-08-09,2025-05-06 02:26:54,,Excellent,471.35,,,
+6f790959-a3e0-4b3b-b56b-0715e7180322,Michael Clark,santanajimmy@gmail.com,44,Germany,2023-05-05,2025-05-03 23:31:21,,,494.75,10,,
+2da44da1-89b5-4368-9f14-c6125f58d5b5,Gina Good,christopher96@anderson.org,,,2023-04-17,2025-05-16 04:14:51,392.82,Excellent,358.38,3,20.0,130.94
+4a814d53-964d-4b77-a025-f0ae35354579,Christine Knight,kenneth29@taylor.com,,ind,2024-07-21,2025-05-03 02:27:36,563.53,,452.45,1,,563.53
+4578bab3-26a9-4465-a371-ea2c0247145f,Warren Middleton,dustin94@gmail.com,,Germany,2024-01-27,2025-02-25 15:53:43,585.99,Good,,1,5.0,585.99
+5e00ea6d-ca24-4e4d-9667-2017555a4085,Michelle Maldonado,rachelbeck@gonzalez.com,26,,2024-06-10,2025-01-05 00:38:18,923.04,,198.39,9,10.0,102.56
+c787ddfb-5697-417c-97fd-3736b7ef941c,Thomas Lam,wgregory@hotmail.com,62,IN,2023-04-30,2025-01-13 14:44:34,729.15,,143.78,,20.0,
+4505f4f6-0a8c-46c7-8921-5f4f9edb95f2,Paul Smith,roachholly@hotmail.com,unknown,India,2024-10-21,2025-03-31 11:39:59,11.81,Excellent,,,10.0,
+955d0e77-fb5e-4866-a640-211e29f2c3c7,Krystal Farley,,53,usa,2022-09-15,2025-02-23 09:43:56,940.7,,140.53,3,5.0,313.56666666666666
+fd42f697-6511-4656-9c64-60364a1eb1b7,Mario Morris,adamthomas@gmail.com,41,usa,2024-09-02,2025-05-03 20:42:46,314.73,Bad,374.7,,5.0,
+1d69d9fc-4b1c-48bd-a130-260c8c69778f,Lindsay Archer,,80,,2022-11-05,2025-03-16 02:17:43,983.3,Good,333.94,,10.0,
+ef0a81ed-3d5d-40bc-bb03-78eb7a62722e,,fmartinez@williams.com,55,ind,2023-01-10,2025-02-11 12:26:10,354.61,Bad,438.24,,5.0,
+db66bfda-2df9-4747-8ed1-35530c5a876f,Charles Williams,elizabeth73@hotmail.com,28,ind,N/A,2025-02-01 03:38:55,243.5,,485.16,,20.0,
+4d7bd307-1224-41e6-ba89-82dd85e69ea9,Timothy Fry,craighenry@yahoo.com,70,,2023-01-28,2025-03-29 22:41:27,80.12,Bad,322.87,,0.0,
+4c9a0ae1-5419-4efc-95e7-3e3f673617d9,Dr. Robert Osborne,justinlong@gmail.com,23,,2023-08-31,2025-01-03 02:38:21,906.42,Average,,,15.0,
+8f928dc5-1972-4ce3-9bd0-94486a2b3200,Chelsea Dunn,finleyrebekah@gmail.com,,usa,2022-06-29,2025-01-31 15:35:55,,Good,,,5.0,
+564ae909-7958-4e69-bb2e-1b82e89dc815,Travis Thompson,qthomas@herrera.com,unknown,usa,2023-09-24,2025-01-01 12:14:41,919.76,Average,426.11,,20.0,
+cff4c56b-f9ea-4c64-8c41-7e7cd741d609,Matthew Moore,ymccann@hotmail.com,,,2022-11-09,2025-02-02 08:53:26,,,127.66,,,
+1db2b452-7aa5-4a18-9fd3-c01757f98d1e,Jonathan Hogan,marissa66@martinez.com,30,usa,2022-12-06,2025-04-22 01:05:30,480.68,Excellent,376.54,,10.0,
+09aedbd0-6d31-4b4a-bf6b-8793b318ad4c,Nicole Baker,christina89@clark-harris.com,48,United States,N/A,2025-05-12 23:57:15,425.63,,225.71,,10.0,
+afe6790a-bc18-440b-95c7-ed9d4d4985dc,Jeffrey Ewing,rmartinez@curry-jackson.com,,IN,2025-01-02,2025-01-10 15:29:53,578.9,Average,475.83,,20.0,
+2aa36cf7-eb70-4a65-a7d9-9a23e4f7625e,Theresa Medina,codygray@clay.com,unknown,United States,2025-01-31,2025-01-18 19:57:40,282.71,Bad,260.79,1,10.0,282.71
+ce5dc807-6025-4199-9082-3edaa0722aa0,Wanda Lee,travislee@palmer.com,,USA,2024-08-14,2025-03-13 19:26:16,611.3,,302.8,4,10.0,152.825
+16408169-a38d-4afc-bdd2-ed7af97ccc57,Rebecca Kirk,qhancock@hotmail.com,unknown,usa,2025-01-02,,625.26,Good,386.25,,10.0,
+32b2c492-15ac-47a1-8eca-2ee310da8a95,Brittney Guerrero,belltina@gmail.com,,IN,2023-02-20,,63.65,Bad,195.15,1,15.0,63.65
+62830869-0fa7-4e05-b897-4df5bff773ce,Kristine Ward,,78,USA,2024-09-11,2025-01-11 13:03:07,802.45,Excellent,467.71,6,5.0,133.74166666666667
+8e751eb7-64d0-4913-991b-8adf0202861c,Kristina Jenkins,scottholmes@petersen.com,unknown,ind,2024-02-22,2025-05-10 16:14:04,98.3,Average,103.25,6,5.0,16.383333333333333
+eb8f2056-72d3-4c5d-8a31-b24384dd6da6,Regina Perez,rdavis@hotmail.com,,USA,2023-06-19,2025-02-13 13:55:40,384.84,,150.11,6,,64.14
+b6e355f6-95bb-440d-89cd-4af97d161f29,Joseph Pugh,umurphy@hotmail.com,unknown,,2022-06-06,2025-02-13 22:02:02,851.8,Average,372.33,,0.0,
+156af458-6c4c-4935-b79d-eda1ade6c5e9,Lynn Burton,mendezmargaret@yahoo.com,72,United States,2023-12-07,2025-04-07 09:21:00,565.95,Average,76.45,,5.0,
+ffc573d5-fd0b-470e-b85a-f4635e4af862,Nicholas Wright PhD,michelleortiz@vincent.com,42,India,N/A,2025-02-19 14:06:12,474.46,Bad,56.75,,10.0,
+2aa50f4e-c6f0-4933-95d1-805142cb6d1d,Tony House,jocelyn21@morris.com,,usa,N/A,2025-03-02 14:27:53,430.7,Excellent,170.57,,0.0,
+1d7173e5-5bc7-4deb-b123-4efe6e648043,Jerome Manning,adrienne66@johnson-alexander.com,34,usa,2022-12-16,2025-04-20 20:49:05,815.52,,491.41,2,0.0,407.76
+da54f267-dd13-4266-926d-53961058fe8c,Jordan Roman,mariaburns@richards.biz,,India,N/A,2025-03-14 17:29:14,596.76,Excellent,189.33,,0.0,
+,Tina Martin,darrylmoore@yahoo.com,55,usa,N/A,2025-05-08 02:54:46,936.85,,308.69,,,
+869bdbd2-e72b-45b7-8712-0911b3b68b57,Tanya Walters,maryevans@yahoo.com,34,IN,2022-07-25,2025-04-15 03:43:30,578.48,Good,43.31,6,0.0,96.41333333333334
+33a1d1c2-ad4a-4155-809f-cd8f739cd488,Dawn Macias,deborah11@sanchez-williams.org,46,Germany,2024-07-25,2025-03-02 21:01:39,,Excellent,146.68,10,10.0,
+41a8a6e1-65e0-4993-bf41-1fed1e70e799,Lisa Davis,vunderwood@scott.com,unknown,United States,2023-04-17,2025-05-08 02:10:38,377.67,Excellent,228.17,,5.0,
+ff3e0ba1-0ac7-48b4-a418-65bf350d278d,Adam King,stephaniesantos@sanchez.com,,Germany,N/A,2025-05-16 15:59:01,766.19,Good,442.42,,,
+9f982188-3744-4a64-8c24-9558f2ad985f,Jasmine Rowe,carlosramirez@dean-ray.com,,IN,2024-04-06,2025-04-07 12:50:38,53.75,Bad,,,10.0,
+755a3ac1-32ae-4a20-9ac9-02ee25777cf0,Jean Beard,ericksondonald@yahoo.com,,,2025-03-18,2025-04-30 18:08:33,60.74,,99.16,,15.0,
+,John Gallegos,marvin66@terrell.com,78,usa,2024-12-24,,165.4,Average,55.37,,5.0,
+d3b564b0-8be0-4c3e-9c94-938160c6b3ed,Michael Murphy,watkinsdouglas@lewis.com,,USA,2023-07-10,,989.49,Good,,,10.0,
+98a33736-fd1a-47ce-9ad0-a6f226bdd974,John Boyd,jenniferbaldwin@hotmail.com,37,United States,2024-02-23,2025-04-09 05:17:27,622.83,,79.9,3,20.0,207.61
+905c053b-25fd-4cbe-bce7-1b48fba52e59,Keith Reed,kennethwallace@hotmail.com,unknown,United States,2022-08-18,,435.15,,435.38,9,20.0,48.349999999999994
+6c596216-ae0f-4bc8-a36b-cb0167e98363,Connor Rodriguez,laurengreen@yahoo.com,unknown,,2023-06-08,2025-01-10 16:47:49,613.31,Bad,335.65,,5.0,
+ade7cef3-7ed2-4c2f-856f-3d95e0ae1a1b,Amanda Hebert,dustin06@west.net,45,India,2024-11-17,2025-02-17 08:05:10,,Average,92.6,,10.0,
+d5627386-528c-4241-a345-ac72eac39204,Theresa Edwards,kcarr@hotmail.com,76,,2023-07-04,2025-01-26 05:25:08,194.42,Good,258.13,10,5.0,19.442
+a2939b3b-7fa7-4d8a-bf88-ec827f99d273,Victoria Hubbard,maryadams@zimmerman-gonzalez.info,,Germany,2023-03-13,2025-02-11 08:22:34,196.44,Good,395.5,,0.0,
+8af58903-33b5-43ce-9fec-4623ab899605,Michael Larson,fanderson@yahoo.com,unknown,ind,2023-10-22,,479.43,Bad,243.75,,10.0,
+027c013f-3801-4399-ae6a-8e2f9c19ed34,Eric Brown,clarkjose@valencia.com,unknown,ind,2025-03-16,2025-02-15 01:42:25,648.01,,308.56,10,10.0,64.801
+bf3df0bb-f66a-4168-b4a1-ca795718ada2,Cesar Castillo,markchan@gmail.com,unknown,,2022-10-27,2025-01-20 01:42:33,,Average,365.99,2,20.0,
+52631db9-d170-44ce-9179-7350e6256403,Pamela Williams,michaelle@alexander-mcdaniel.com,65,,2025-04-29,2025-01-28 06:27:09,310.53,,126.75,,5.0,
+dfde2281-25fb-4f3d-866d-7002091472ad,Amanda Peters,lortiz@gmail.com,unknown,ind,2023-07-07,2025-01-21 11:52:10,126.55,Bad,240.91,3,0.0,42.18333333333333
+27e969e2-c8bf-43fb-9a43-1f7a41c30359,Lynn Herring,aanderson@trevino.biz,,ind,N/A,2025-01-09 01:33:34,20.88,,410.53,,5.0,
+4b5ca436-953c-478e-a106-7a8cd7a3283c,Kevin Miller,sbrown@jackson.com,,India,2024-06-19,2025-04-27 14:23:59,389.49,,364.06,,0.0,
+786e30ef-ce9b-4e70-b4d4-dfccb7d779cc,Robin Harris,aaronmorgan@chavez-gonzalez.com,unknown,United States,2023-12-14,,84.83,Good,202.69,,15.0,
+843b2a7d-15ab-4c21-8cc9-3ff710fce97d,Michael King,amy76@gmail.com,70,IN,2023-08-16,2025-04-19 16:00:57,409.32,Average,240.73,5,,81.864
+10fc9eee-0a17-47f7-aa5f-24b6de6fec4b,Timothy Lutz,rodriguezjenny@gardner-mason.com,unknown,,2022-08-15,2025-01-18 18:36:11,386.95,Excellent,61.06,8,0.0,48.36875
+4cea2df0-0a66-4c4e-a168-1081399f8a8f,Steven Tran,gardnerkeith@sanchez.com,,usa,2023-07-02,2025-04-25 13:27:47,271.09,Average,250.46,,0.0,
+72d6bc20-d80d-4a1c-8247-2fd603e9ba02,Kevin May,gabrielscott@hotmail.com,unknown,IN,2025-05-03,2025-04-30 09:26:03,730.88,,,,20.0,
+ccf719ab-2922-4bd8-9ca5-b35354a1d505,Peter Meyers,kbush@castro.com,unknown,USA,2022-10-31,2025-03-26 05:08:55,911.41,,279.24,7,0.0,130.20142857142858
+75f2bc20-a7f5-495c-9e62-d43f261908b9,Matthew Bryant,christopher63@cummings-perez.org,,Germany,2023-11-25,2025-03-29 23:51:48,198.64,Average,346.96,,20.0,
+61d9fe39-8147-48f4-9f0e-f320f7f60e7f,Jimmy Moore,ronalddrake@hotmail.com,unknown,ind,2023-08-02,2025-05-07 07:10:21,459.85,Excellent,191.44,2,0.0,229.925
+089b30a0-809f-4923-87a1-798fe6addd9e,Matthew Alvarez,justinpalmer@yahoo.com,,ind,N/A,2025-03-29 08:44:28,236.76,Good,213.6,,5.0,
+cb4d18d6-adb6-4a35-9734-a26c92e94e89,Kimberly Hoover,melvin22@gmail.com,,USA,2023-03-15,2025-03-18 19:02:03,974.16,Bad,472.06,,,
+99a2ecb1-c202-487b-849b-8a44ce1bb02a,Robert Miller,dawn57@hotmail.com,unknown,Germany,2023-10-28,2025-01-03 17:32:22,319.75,Good,133.32,,0.0,
+6d265dd8-bf39-4fbb-938c-3460fd938adc,Harold Hayes,andrewgarcia@hotmail.com,unknown,ind,2023-05-13,2025-04-30 16:37:45,541.07,Bad,378.17,,,
+4a276dda-34c3-494a-812e-a9b8e7e13ed8,Kayla Archer,,unknown,IN,2023-05-26,2025-05-04 11:33:35,251.41,Bad,336.91,,20.0,
+6af79ad2-993e-48c6-a6b1-06e289110af0,Barbara Stewart,lisabean@rivera.info,,,2023-03-22,2025-04-12 18:19:59,331.77,Good,332.54,,15.0,
+d872298c-7b72-490b-b8f8-f071d360da69,Nicholas Smith,alexander93@gmail.com,,,2023-03-05,2025-05-02 12:08:12,695.56,Bad,252.34,2,10.0,347.78
+9b8086da-6379-4035-b8e4-5086ca819c6f,Cheryl Gutierrez,donnaball@hotmail.com,36,IN,2025-04-15,2025-03-03 21:36:53,,Good,262.52,,,
+dd620222-d9ef-428b-bbcb-50b3961d8dcf,Eric Price,jared60@hotmail.com,unknown,USA,2023-12-25,2025-05-17 13:30:13,582.51,Excellent,80.35,,5.0,
+e2a01335-a830-43ab-853e-4b42cc4da021,Randall Dawson,jocelyn03@hotmail.com,unknown,IN,2022-11-22,2025-04-12 09:17:09,830.45,Excellent,257.68,,15.0,
+4d6cd782-2e95-43ea-bda1-7da2000fc63d,Russell Jones,gcole@hotmail.com,,India,2024-08-24,,125.45,Average,253.37,,10.0,
+552ae5ca-4124-405b-91fc-fe8881c16e98,,haaschristopher@yahoo.com,unknown,United States,N/A,,394.74,Excellent,267.33,3,5.0,131.58
+4312ece2-dc21-41e1-be56-ac3d10cc8711,Henry Winters,sharrington@hotmail.com,unknown,usa,2023-06-11,2025-02-10 22:05:09,741.91,,283.76,7,10.0,105.98714285714286
+c5c14262-4d84-4ec5-9334-886ff164f9d8,Megan Hart,todd68@burton.com,unknown,United States,2025-03-14,2025-01-25 14:37:12,785.18,Average,421.98,4,0.0,196.295
+6238d0a0-cf5e-4ea3-a258-4ab368777bab,Jennifer Johnson,raymondsummers@yahoo.com,30,United States,2023-02-03,2025-04-29 13:40:28,441.73,,216.34,,10.0,
+ef7e85ec-a417-456f-a9ee-7f3d0ff030b8,Cheryl Hughes,tkelley@yahoo.com,,USA,2023-11-06,2025-02-28 03:43:18,311.0,Average,415.15,3,20.0,103.66666666666667
+babd4745-497e-4f1a-bd2b-f042209818d1,Caleb Bell,benjamin77@jones-perez.com,80,Germany,2024-01-13,2025-04-18 13:28:26,,Good,287.16,10,0.0,
+f11ddff7-0e37-4526-9582-a3bdd476fe38,Luis Valdez,vjohnson@white.com,unknown,India,2022-06-27,,33.56,Good,,,5.0,
+2412579d-6af9-44e0-bb38-785b0932f5b6,Jesus Spencer,sherryjohnson@mayo.biz,,USA,2024-08-22,2025-02-27 01:40:37,856.91,,,,5.0,
+9a1a7d6f-dd02-4100-a3d4-84087de8a234,Kathleen Miller,keithalexander@hotmail.com,40,USA,2025-03-21,,350.13,Good,355.21,7,20.0,50.01857142857143
+b2ddc481-ac6d-4df8-94e5-064cb799ae8e,Scott Gibbs,timothyhuang@guerrero.com,unknown,,2022-07-23,2025-05-11 15:30:12,60.24,Excellent,183.71,,5.0,
+5a4f4145-fc98-4279-8f6f-111c26c06e67,Deborah Wong,peter94@yahoo.com,unknown,IN,N/A,,947.31,Bad,52.64,,10.0,
+775e0ec3-9c9d-43f3-8901-8aee69407be7,Ronald Cook,browndebra@yahoo.com,,IN,2024-08-24,2025-03-20 00:49:36,638.68,,66.26,,5.0,
+19faa06e-0c0a-4967-b579-501a62fda854,Kaitlin Johnson,jschultz@gray.biz,unknown,United States,2024-03-20,2025-04-26 12:05:29,716.31,,459.05,6,0.0,119.38499999999999
+052daad3-26c0-4984-8734-bb05788c31f6,Lori Mitchell,nortonchristopher@phillips.com,69,ind,2025-04-14,,871.47,,,,5.0,
+21f8c156-9e0d-445b-992a-34a1084fa819,James Moore,,,United States,2022-11-03,,355.7,,397.02,,10.0,
+b3386c3e-1af4-487f-92eb-dac5a1457899,,moorebrittney@harrison.org,unknown,United States,2023-06-15,,352.49,Excellent,46.28,,,
+31e9ca80-58bf-4b9e-a624-5b598c94af98,Bridget Thompson,mezaann@jones.org,,,2023-03-25,2025-04-12 07:19:41,463.86,Good,164.75,7,,66.26571428571428
+c707aef9-c6c3-444c-888e-03b662276cbc,,lorimichael@miller-wells.info,unknown,Germany,2024-07-19,2025-01-10 18:22:42,879.2,,444.65,,10.0,
+0f66b32d-e19b-4837-9c6a-4b5e7d859725,Margaret Sanchez,taylornathan@dixon-miller.net,28,IN,2023-08-26,2025-03-30 22:33:53,119.41,Bad,320.69,,10.0,
+9d44c93e-7799-48e2-b368-c5539c30ceaa,Lori Dougherty,clintonmoody@kemp-rice.com,unknown,Germany,2022-09-27,2025-04-21 19:25:26,751.93,Average,341.05,,,
+a6855857-567e-4862-af15-1673a1df3da7,Dr. Michael Williams,john12@hotmail.com,43,Germany,2022-10-26,2025-04-21 01:45:45,608.3,Bad,,7,0.0,86.89999999999999
+b6af98b2-aeba-42d0-b830-32491fd3af07,Douglas Jackson,jill58@yahoo.com,,IN,2024-07-01,2025-02-18 00:52:31,0.61,,410.94,5,0.0,0.122
+d960af85-c9df-4e44-8bdf-fa7d9f3dd894,Darrell Johns,smithjonathan@schwartz.com,60,ind,2024-03-02,2025-03-18 05:54:33,261.72,Good,282.92,,10.0,
+633cbf79-e96a-41af-b55e-3aa2208a393e,,restrada@yahoo.com,78,ind,N/A,2025-02-21 05:54:44,848.04,Excellent,342.58,,5.0,
+beebb4ea-eab9-421b-8b36-b545cca1a034,Shawn Taylor,jacksondiane@morris.info,,USA,2025-03-29,,18.32,Excellent,299.9,7,0.0,2.617142857142857
+fbbff9e0-ae56-402a-b521-ca9fdf5e6f78,Alexis Conrad,manuel19@vaughn.com,,ind,2024-09-21,2025-04-19 02:24:36,463.81,,,,,
+dc45488d-84dd-49b9-9f1e-0ee9cf6c9992,James Solis,cgrant@hotmail.com,,usa,2023-11-16,2025-05-09 15:23:55,,,151.61,,5.0,
+09c67417-306a-4871-beef-71cbc915d113,Mrs. Samantha Hicks MD,phillipburch@yahoo.com,70,Germany,2023-02-19,2025-03-01 17:16:43,753.3,Bad,405.66,4,15.0,188.325
+5f1ff97c-71cf-4814-a45b-d776c838a145,Ashley Carr,samanthawilliams@yahoo.com,,usa,2022-12-31,2025-01-24 11:46:10,,Good,284.9,,10.0,
+5b471c43-7499-428c-b0c3-2323c1b199c4,Megan James,deborah04@rios.com,unknown,USA,2022-11-22,2025-03-02 23:20:59,19.07,Excellent,265.77,,10.0,
+f4dd05d5-1349-447a-a1cb-a182ca20854d,Jeffrey Mcintyre,,unknown,,2023-08-06,2025-04-22 07:49:16,496.89,,260.2,,10.0,
+0a3c2c6f-ef2d-4a38-a6e4-b8df0b6d9611,David Taylor,sara81@gmail.com,unknown,IN,2023-08-17,2025-02-19 15:35:56,475.56,Excellent,262.2,8,20.0,59.445
+06d2ed7c-e6ac-4d8a-8160-ff927c7550f2,Kim Jones,monicabishop@gmail.com,,India,2023-02-11,2025-05-16 04:11:51,,Bad,100.54,,15.0,
+91bacf80-aaa0-4996-8522-dc4ef1dd50bf,,lisa04@gmail.com,,United States,2024-06-10,2025-04-10 18:08:01,151.77,,472.47,,,
+3acaaf82-374a-4cc9-a039-7e67926146de,Matthew Church,markwu@aguilar.com,61,India,2023-08-17,,946.25,Average,,7,,135.17857142857142
+e27ac8e9-d1c3-41bc-86be-643217ee0eb0,Jeffrey Ruiz,qliu@watkins-nixon.com,,United States,2023-06-04,2025-02-21 21:15:45,831.78,,105.9,,20.0,
+809e2109-c786-4a38-a09f-1aede38690e7,James Brewer,wisealvin@yahoo.com,33,,2024-08-31,2025-03-29 19:27:56,440.85,Bad,120.66,,15.0,
+81d1bf06-6b8c-46f2-8611-f583b2d10e3d,Kevin Houston,obooth@becker.biz,,Germany,2024-11-03,2025-03-28 17:39:48,121.0,Good,266.59,5,20.0,24.2
+254bf7ae-1d0a-4994-b20b-575d4e28e674,,christinasnyder@martin-shelton.biz,,India,2025-04-22,,451.74,Good,269.12,,0.0,
+6c0be55c-90e6-49e1-a44f-c3a96d0c62c3,Dr. Jacqueline Johnson DDS,johnnyhaynes@gmail.com,31,Germany,2023-05-25,2025-01-21 01:11:28,981.14,,84.92,,,
+1ad1daaa-ef8d-4ff0-9583-1feeec41e6f6,David Williams,rhonda21@wright.com,38,Germany,2022-09-14,2025-04-25 00:23:01,,Good,141.01,,,
+6a480542-1965-4435-901b-b5fa6a677623,Robert Maynard,amanda67@yahoo.com,,USA,2024-05-27,2025-03-02 09:34:21,201.95,Excellent,104.51,2,20.0,100.975
+f45da406-bbf9-4b01-a7f9-e728c618fc1e,Shawn Williams,catherine44@mitchell.net,unknown,United States,2023-03-12,2025-03-04 15:51:07,225.22,Average,,9,5.0,25.024444444444445
+6e5bac20-725c-4675-8a95-71e407dc02b1,Alyssa Fisher,pnelson@bowen-sanford.biz,unknown,ind,N/A,2025-05-14 14:18:32,486.52,,171.33,,,
+7f22cd12-07b6-408e-aac1-ca75afb918c8,Jenna Middleton,jennifer00@shelton-price.net,,USA,2023-11-24,2025-01-15 19:17:13,279.15,,,,10.0,
+53125ffd-f655-460b-9d32-e231eb561699,Lindsey Martin,,unknown,usa,2024-03-09,2025-03-26 14:36:28,819.33,,437.55,,5.0,
+5a3da367-141b-4a1b-80a9-78bfb8f8903b,Jason Lawrence,jwarren@hotmail.com,,IN,2023-07-08,2025-03-08 04:39:07,496.5,,480.63,,20.0,
+b1182d23-5bf8-4676-9f12-a0e912011caa,Diane Gordon DVM,lindafischer@hotmail.com,unknown,USA,2023-10-08,2025-01-02 07:47:47,556.65,Good,198.06,,,
+2d8b5b41-590e-43da-986f-1721078548d7,Mark Miranda,kylejones@gmail.com,unknown,usa,2022-10-24,2025-01-22 01:19:52,218.87,Excellent,,,10.0,
+3b019fcb-f96d-4403-948c-93f3028d042b,Nicole Gonzalez,ffuller@mathis-dalton.com,unknown,,2022-12-21,2025-03-05 21:37:12,921.34,Good,439.54,,5.0,
+98ba0f0e-120d-4126-9da5-3b38d1aa6c5e,Cassandra Silva,travis83@gmail.com,unknown,India,2024-05-06,2025-04-25 08:13:33,356.11,,39.82,,15.0,
+00d3d1af-353e-4c86-a4ae-ba79e4b82987,Mark Carter,phillip89@gmail.com,,ind,2025-01-15,2025-01-21 11:27:43,307.04,Excellent,22.87,,,
+bb6b0095-ac7b-4ab2-a8b5-6f85346d2b7e,Michael Adams,williamthomas@yahoo.com,unknown,India,2023-11-13,2025-04-19 04:54:36,14.75,,257.19,,0.0,
+bf7b68ae-1f89-41b6-a6a1-a40bf031f4b9,Hannah Anderson,johnsonthomas@mills.com,67,Germany,2024-07-12,2025-02-08 03:18:02,764.69,Good,350.67,,,
+b080e003-5e7f-403c-8b13-47f601d6d903,Carol Jordan,turnersamantha@yahoo.com,56,India,2022-12-04,2025-04-21 20:28:18,640.57,,267.32,8,20.0,80.07125
+,Billy Page,riveranicole@hotmail.com,unknown,India,2022-08-22,2025-05-11 17:01:37,148.34,Bad,188.52,,20.0,
+3b9cea95-9ad7-458f-aecb-325b064f768d,Paula Gardner,diane95@townsend.info,unknown,IN,2024-05-01,2025-05-10 16:03:37,924.78,Good,294.59,,5.0,
+743c7e9d-2fde-4035-a452-bc39dbf2eed1,Caroline Clark,fchen@yahoo.com,unknown,India,2024-01-30,2025-01-01 23:22:11,,Good,41.76,,15.0,
+b51d70d8-582d-4972-ba08-9ca81cc5a8a0,Joseph Fuentes,freynolds@yahoo.com,73,IN,N/A,2025-01-04 13:14:40,209.48,Average,449.62,5,15.0,41.896
+0726d44a-2152-43c7-821a-a15ef58c43ce,Stephen Fitzgerald,wpacheco@fuller-lee.com,,India,2024-06-03,2025-01-04 12:15:35,124.63,,348.82,,5.0,
+55c36c3d-5cbb-4080-b547-5c5ef76dce6e,Frances Wilson,smorris@cooper-martin.com,,ind,2023-09-24,2025-03-02 05:17:31,361.84,Good,286.18,1,20.0,361.84
+4bdd5f99-4ae9-4e11-b5fe-0213792ecd75,Sarah Ortiz,tylerdavis@hotmail.com,,Germany,2024-12-19,2025-03-31 19:50:23,404.15,Good,245.03,,,
+8d9ecfb9-f549-4e22-a0df-7f74efe78b60,Stephanie Peterson,grant52@yahoo.com,unknown,ind,2023-09-13,2025-01-22 09:25:45,158.96,,246.55,3,5.0,52.98666666666667
+97d01e70-2f1d-4bef-93b5-3b92a2cb5f38,Evelyn Neal,rodriguezmarc@yahoo.com,unknown,Germany,2024-06-07,,511.35,Bad,95.51,,5.0,
+88819f42-1a42-4629-94af-e646fe3216bd,,melissa03@hotmail.com,unknown,USA,2022-12-21,2025-04-11 08:34:46,386.25,Average,339.95,,,
+606821d6-280a-47ee-8ec9-85ff94b28b9d,Victoria Manning,geoffreygrant@yahoo.com,unknown,ind,2023-07-31,2025-05-10 07:31:57,823.63,Good,153.26,6,15.0,137.27166666666668
+200f7753-f217-4aac-a59c-ff81e5ce0ca6,Spencer Riddle,marquezpaula@rodriguez.info,unknown,USA,2022-07-26,2025-01-04 21:04:17,257.49,Average,308.84,,10.0,
+82221345-50de-4292-b90a-9016cdec85da,Travis Hunt,jasminebrown@gmail.com,,usa,2024-02-13,2025-04-08 00:30:06,977.42,,,5,15.0,195.48399999999998
+2f16fb50-c13e-46af-bc95-90d33e2aad3e,Whitney Hess,conleycathy@campbell.org,19,ind,2025-04-22,2025-02-15 22:15:24,512.18,,383.39,10,10.0,51.217999999999996
+a9c72e7b-6b77-4df1-9f59-aa2c4a82e06a,Brittany Smith,melissayoder@barrera-schmidt.com,59,Germany,2022-08-28,2025-02-23 06:32:22,544.3,Good,159.51,7,20.0,77.75714285714285
+99e8c828-21da-432c-9c68-d4fd0bd7696f,Michele Walls,deborahpowell@gmail.com,unknown,USA,2024-05-06,,782.78,,38.45,4,,195.695
+b3c161c3-13f2-437c-a4d0-27590542bd75,Melissa Holland,lewisabigail@lowe-bryant.com,56,United States,2024-11-23,2025-04-10 22:41:31,,Average,336.06,1,20.0,
+4ca49aaf-6b94-4e09-a1cc-14b312bdf75f,Matthew Holden,trobles@yahoo.com,,United States,2023-02-16,2025-02-28 12:32:37,369.57,,240.32,,10.0,
+ed28508d-bdaa-4bfa-aab0-15638cffbbb1,Michael Mendez,michaelporter@brown.biz,28,Germany,2022-08-30,,765.84,Good,420.51,10,15.0,76.584
+4c4b91fe-6c14-4fc6-9750-ca7e246cb09c,Ricky Smith,karen15@gonzalez.net,49,Germany,2022-11-08,2025-02-21 06:49:04,208.21,,29.99,,20.0,
+3f80c31f-15a5-412c-9ac4-b6c7a31034dd,Ruth Castillo,ldalton@hotmail.com,unknown,ind,2024-01-18,,96.42,Average,273.09,,10.0,
+,Jesse Silva,kim09@hotmail.com,60,USA,2023-05-11,2025-02-08 23:48:32,,,183.32,5,10.0,
+a3155940-5e87-405a-a1fd-cdf171df24d9,John Rowe,james81@gonzales-rodriguez.info,30,USA,2023-08-13,2025-03-19 22:34:43,850.87,,289.24,,5.0,
+605dd4d6-0ecf-495b-877a-2133f2ed33e1,Kristina Wilcox,ystewart@yahoo.com,,India,2025-01-13,2025-04-28 04:06:29,942.68,Bad,330.9,,5.0,
+f642c8f3-6acf-49eb-8228-4fd9689bba65,,victoria28@rojas.com,36,usa,2022-10-30,2025-03-28 18:29:20,837.43,,59.29,,20.0,
+70f8dd99-5217-4eb7-a6b9-20daba6a098f,Scott Mccall,hoffmanandrew@hubbard.com,54,Germany,2024-03-07,2025-04-03 13:51:15,521.09,,246.09,,20.0,
+f3cc9d8a-4b16-48e4-9f20-f4063438b4e4,Ronald Atkinson,elizabeth10@gmail.com,unknown,,2025-01-14,2025-03-01 13:50:19,837.28,,320.68,,5.0,
+2f7a304f-f344-4911-974f-7a54788c161e,Kelly Franklin,stephanie89@rollins.com,,,2024-11-08,2025-03-06 06:29:44,246.49,Excellent,91.36,,5.0,
+1cb66f67-46e7-45ad-9bce-35d8cbe88a3f,Michael Sullivan,blackwelljoann@hernandez-harris.org,,ind,2023-08-18,2025-01-03 21:25:09,142.01,,76.49,8,,17.75125
+27649a62-b02d-452c-9b05-0db28ee4fd02,Chad Price,karen47@mills-henry.com,,IN,2024-09-03,2025-04-22 21:25:18,666.67,,183.83,6,5.0,111.11166666666666
+eda2fc4c-7237-4420-b3dd-77e1cbb02fe9,Krystal Hendricks,vmoody@yahoo.com,unknown,usa,2022-07-04,2025-04-28 04:28:07,,,187.46,8,,
+6bf4d047-c484-4a8d-af75-1bde66163e5b,Angie Chapman,wbraun@yahoo.com,unknown,United States,2024-10-12,2025-04-27 16:38:39,925.6,,386.61,10,,92.56
+f5a3e893-3f7a-4748-acbb-93c26e84f8ea,Jonathon Gibson,maryreeves@powell-stevenson.com,,IN,2022-08-01,2025-02-27 04:02:28,54.94,Average,209.95,,15.0,
+85fa2d5c-efe6-471b-9723-a95974151acc,Brian Whitaker,klee@everett.com,unknown,India,2024-02-04,,894.97,Average,265.99,,,
+a1ab17c0-7662-49cc-9af9-5c78247f4d97,Matthew Kennedy Jr.,dorismartinez@hamilton.com,unknown,USA,2024-02-16,2025-01-21 17:24:28,577.15,Bad,338.52,10,5.0,57.714999999999996
+c149fa8e-7bb8-42f1-9624-d318a32652e8,Caitlin Phelps,warnervirginia@sharp.com,unknown,,2024-08-07,,97.71,Bad,294.18,7,15.0,13.958571428571428
+d4864482-0078-4b12-8b73-50d13421beaf,Briana Jones,michael16@martinez-berry.net,,IN,N/A,,368.16,Excellent,52.13,7,,52.59428571428572
+764657ca-9e65-436c-b2f7-74b1b2f11ef9,James Benton,kathrynhudson@mitchell.com,57,United States,2023-12-09,2025-03-08 08:32:31,378.67,Excellent,372.44,6,0.0,63.11166666666667
+843b2a7d-15ab-4c21-8cc9-3ff710fce97d,Michael King,amy76@gmail.com,70,IN,2023-08-16,2025-04-19 16:00:57,409.32,Average,265.91,,,
+d138d150-8557-416a-a750-2a812227d96d,Amanda Davis,jonathanallen@glenn.com,,Germany,2025-01-22,2025-02-17 01:46:28,905.16,Average,264.49,,,
+dfde2281-25fb-4f3d-866d-7002091472ad,Amanda Peters,lortiz@gmail.com,unknown,ind,2023-07-07,2025-01-21 11:52:10,126.55,Bad,368.5,5,15.0,25.31
+f11ddff7-0e37-4526-9582-a3bdd476fe38,Luis Valdez,vjohnson@white.com,unknown,India,2022-06-27,,33.56,Good,418.25,8,10.0,4.195
+d675ebf7-4fe3-4c9a-9371-0f577e9cf84f,Gary Hatfield,adam52@lane-brown.com,27,USA,2024-10-28,2025-03-03 00:32:03,865.25,Good,359.97,,,
+34ab18fd-0a68-488e-8ad4-041504c14982,Steven Pierce,jessica03@gmail.com,77,ind,2023-12-01,,699.01,Bad,331.02,7,10.0,99.85857142857142
+905c053b-25fd-4cbe-bce7-1b48fba52e59,Keith Reed,kennethwallace@hotmail.com,unknown,United States,2022-08-18,,435.15,,243.47,10,20.0,43.515
+e786ab37-5bca-47be-8298-17c53308fb2e,Mary Harmon,gillbrian@steele.info,62,United States,2024-07-30,2025-01-19 19:21:50,814.79,Good,257.75,4,5.0,203.6975
+2f16fb50-c13e-46af-bc95-90d33e2aad3e,Whitney Hess,conleycathy@campbell.org,19,ind,2025-04-22,2025-02-15 22:15:24,512.18,,59.99,8,5.0,64.0225
+e27ac8e9-d1c3-41bc-86be-643217ee0eb0,Jeffrey Ruiz,qliu@watkins-nixon.com,,United States,2023-06-04,2025-02-21 21:15:45,831.78,,496.6,,5.0,
